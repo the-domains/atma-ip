@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ATMA Intellectual Property]]></title>
         <description><![CDATA[ATMA Intellectual Property]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atma-ip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 17:37:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 17:37:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atma-ip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Здесь должна быть фотография</p>]]></description>
+            <link>https://thegrid.ai/atma-ip/b1419fb6-200b-4777-9302-98a942c01df3/index.html</link>
+            <guid isPermaLink="false">b1419fb6-200b-4777-9302-98a942c01df3</guid>
+            <pubDate>Wed, 10 Feb 2016 17:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is the home of Intellectual Property.</p>]]></description>
-            <link>undefinedd22ba84c-64d7-4eed-8cc4-bb99d994eb17/index.html</link>
+            <link>https://thegrid.ai/atma-ip/d22ba84c-64d7-4eed-8cc4-bb99d994eb17/index.html</link>
             <guid isPermaLink="false">d22ba84c-64d7-4eed-8cc4-bb99d994eb17</guid>
             <pubDate>Wed, 10 Feb 2016 17:37:31 GMT</pubDate>
         </item>
