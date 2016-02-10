@@ -1,7 +1,7 @@
 name: ATMA IP
 favicon: null
-layout_spectrum: 0.0783482410479337
-typography_spectrum: 0.5756997680291533
+layout_spectrum: 1
+typography_spectrum: 0.56087
 title: ATMA Intellectual Property
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.7669739581178874
-  lightness: 0.9626354959327728
-  saturation: 0.37422831100411713
-  rhythmicContrast: 0.4233972521033138
+    - '#ffffff'
+    - '#66004c'
+    - '#e5c2df'
+    - '#666666'
+    - '#a0a0a0'
+  brandStrength: 0.9375
+  lightness: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
