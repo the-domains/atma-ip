@@ -4,7 +4,7 @@
         <description><![CDATA[ATMA Intellectual Property]]></description>
         <link>https://thegrid.ai/atma-ip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 17:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 17:45:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atma-ip/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Здесь должна быть фотография</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83fd91ec-6d92-4210-9b5e-ba4359cb82a7.JPG">]]></description>
             <link>https://thegrid.ai/atma-ip/b1419fb6-200b-4777-9302-98a942c01df3/index.html</link>
             <guid isPermaLink="false">b1419fb6-200b-4777-9302-98a942c01df3</guid>
-            <pubDate>Wed, 10 Feb 2016 17:37:42 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 17:40:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
