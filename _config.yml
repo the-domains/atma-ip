@@ -1,6 +1,6 @@
 name: ATMA IP
 favicon: null
-layout_spectrum: 0.23939
+layout_spectrum: 0.35953
 typography_spectrum: 0.56087
 title: ATMA Intellectual Property
 cta:
@@ -23,7 +23,7 @@ color:
     - '#785a73'
     - '#7d2767'
   brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.4375
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
